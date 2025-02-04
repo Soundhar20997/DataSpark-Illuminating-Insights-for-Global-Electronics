@@ -2,7 +2,7 @@
 
 ## Overview
 
-**DataSpark** is a retail analytics project designed to extract actionable insights for Global Electronics, a leading retailer of consumer electronics. This project focuses on conducting a comprehensive Exploratory Data Analysis (EDA) to understand customer behaviors, optimize operations, and enhance business performance. By leveraging tools like Python, SQL, and Power BI/Tableau, the project transforms raw data into a comprehensive strategy for improving customer satisfaction, sales forecasting, inventory management, and pricing optimization.
+**DataSpark** is a retail analytics project designed to extract actionable insights for Global Electronics, a leading retailer of consumer electronics. This project focuses on conducting a comprehensive Exploratory Data Analysis (EDA) to understand customer behaviors, optimize operations, and enhance business performance. By leveraging tools like Python, SQL, and Power BI, the project transforms raw data into a comprehensive strategy for improving customer satisfaction, sales forecasting, inventory management, and pricing optimization.
 
 ---
 
@@ -55,40 +55,9 @@ Global Electronics seeks to uncover meaningful insights from datasets comprising
 - Analyze customer demographics, purchasing behaviors, sales trends, product performance, and store data.  
 
 ### **4. Visualization and Reporting**
-- Use Power BI/Tableau to create interactive dashboards.  
+- Use Power BI to create interactive dashboards.  
 - Visualizations to include demographic insights, product trends, sales performance, and regional analysis.  
 
 ---
 
-## Analysis Plan
 
-### **Customer Analysis**
-- Demographic distribution (age, gender, location, etc.)  
-- Purchasing behavior (frequency, preferred products, average order value)  
-- Customer segmentation  
-
-### **Sales Analysis**
-- Total sales performance over time (seasonality trends)  
-- Top-performing products and stores  
-- Sales impact by currency and exchange rates  
-
-### **Product Analysis**
-- Popular and least popular products  
-- Profitability by product  
-- Category-wise sales trends  
-
-### **Store Analysis**
-- Performance evaluation by location, size, and operational data  
-- Geographical performance insights  
-
----
-
-## Deliverables
-
-1. **Cleaned and Integrated Datasets:** Prepared datasets ready for advanced analysis.  
-2. **SQL Scripts:** Queries extracting key insights from customer, sales, and product data.  
-3. **EDA Report:** In-depth analysis of customer demographics, sales trends, and operational metrics.  
-4. **Interactive Dashboards:** Power BI visualizations showcasing findings.  
-5. **Actionable Recommendations:** Strategic insights to optimize marketing, sales, operations, and product development.  
-
----
